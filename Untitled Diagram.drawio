@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T06:15:57.945Z" agent="5.0 (X11)" etag="WNad5YjiE2ruGltzyVnv" version="13.11.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-13T07:28:36.994Z" agent="5.0 (X11)" etag="W53x9J-uV-aHBqw0n3Y5" version="13.11.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1801" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -860,9 +860,6 @@
         <mxCell id="GuEdY2DclQKaIaClwabc-2" value="购物车内容" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="8yWKAV6swH5ak7eeeC2a-1">
           <mxGeometry x="240" y="960" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EvJVOmqXfCR-dU9oMPhk-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="8yWKAV6swH5ak7eeeC2a-1" source="TdUe1OQQ46Cp5VhX9320-0" target="EvJVOmqXfCR-dU9oMPhk-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EvJVOmqXfCR-dU9oMPhk-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="8yWKAV6swH5ak7eeeC2a-1" source="TdUe1OQQ46Cp5VhX9320-0" target="EvJVOmqXfCR-dU9oMPhk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -894,9 +891,6 @@
         </mxCell>
         <mxCell id="TdUe1OQQ46Cp5VhX9320-3" value="购买时间" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="8yWKAV6swH5ak7eeeC2a-1">
           <mxGeometry x="560" y="1050" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EvJVOmqXfCR-dU9oMPhk-0" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="8yWKAV6swH5ak7eeeC2a-1">
-          <mxGeometry x="827" y="960" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EvJVOmqXfCR-dU9oMPhk-1" value="交易金额" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="8yWKAV6swH5ak7eeeC2a-1">
           <mxGeometry x="840" y="1050" width="90" height="40" as="geometry" />
